@@ -51,3 +51,10 @@ To secure the `haouari.local` environment against these advanced attack paths, s
 * **Incident Response:** The `krbtgt` domain account password was reset twice to invalidate any forged Golden Tickets and lock out persistent backdoors.
 
 ![Resetting krbtgt Password](images/krbtgt-reset.png)
+
+---
+
+## 📄 Full Technical Report
+For a comprehensive, step-by-step technical breakdown of the methodology, command execution, and remediation strategies, please refer to the full project report included in this repository.
+
+[**View the Full Project Report (PDF)**](Project_Report_AD.pdf)
